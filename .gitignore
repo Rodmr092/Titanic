@@ -1,0 +1,21 @@
+# Virtual environment
+venv/
+
+# Python bytecode
+*.pyc
+__pycache__/
+
+# Jupyter Notebook
+.ipynb_checkpoints/
+
+# Operating system files
+.DS_Store
+Thumbs.db
+
+# Data files
+data/
+*.zip
+
+# Editor directories
+.vscode/
+.idea/
